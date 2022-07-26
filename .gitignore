@@ -1,0 +1,13 @@
+/node_modules   
+# OSX
+#
+.DS_Store
+
+db_data
+minio_data
+.env*
+!.env*.example
+*.log
+node_modules
+package-lock.json
+src/configs/firebase-admin.json
